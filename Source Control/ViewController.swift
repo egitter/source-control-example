@@ -11,6 +11,7 @@ import Cocoa
 class ViewController: NSViewController {
 
   let example = "example"
+  let instance = "instance"
   
   override func viewDidLoad() {
     super.viewDidLoad()
