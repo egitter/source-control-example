@@ -10,7 +10,7 @@ import Cocoa
 
 class ViewController: NSViewController {
 
-  let example = "example"
+  let example = "example1"
   let instance = "instance"
   
   override func viewDidLoad() {
